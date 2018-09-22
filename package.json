@@ -1,0 +1,8 @@
+{
+    "name" : "node-red-contrib-pks-neuron",
+    "node-red" : {
+        "nodes": {
+            "lower-case": "lower-case.js"
+        }
+    }
+}
